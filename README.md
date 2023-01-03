@@ -1,6 +1,6 @@
 # Kodomo No Hi 2022 Refactor
 > This project aims to fix and refactor an old game from 2022 that I made for Children's Day.
-> Live demo [_here_]([https://www.example.com](https://owaru.itch.io/kodomo-refactor?secret=UTMFWIZbp079j5FGcrFcT5noik8)).
+> Live demo [_here_](https://owaru.itch.io/kodomo-refactor?secret=UTMFWIZbp079j5FGcrFcT5noik8).
 
 ## Table of Contents
 * [General Info](#general-information)
